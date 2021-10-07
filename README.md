@@ -1,3 +1,3 @@
 # tflite_test_model
 
-This notebook was originally written on google colab
+This notebook was originally written on google colab to test tflite detection models
